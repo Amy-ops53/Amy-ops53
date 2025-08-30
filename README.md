@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ha-Young Ryu (Amy) | 안녕하세요, 류하영입니다
+# 👋 Hi, I'm Amy
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
