@@ -6,7 +6,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![DevOps](https://img.shields.io/badge/DevOps-CICD-blue?logo=githubactions&logoColor=white)
 
-## 🧑‍💻 About Me | 소개
+## About Me | 소개
 - **Java/Spring Backend Developer (3+ years)**  
 - **Experience in Public & Financial IT (Authentication, Credit Data, CMS)**  
 - **Interested in DevOps mindset: building, deploying, and operating reliable services**  
