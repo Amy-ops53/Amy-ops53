@@ -8,13 +8,11 @@
 
 ## About Me | 소개
 - **Java/Spring Backend Developer (3+ years)**  
-- **Experience in Public & Financial IT (Authentication, Credit Data, CMS)**  
 - **Interested in DevOps mindset: building, deploying, and operating reliable services**  
 
 ---
 
 - **자바/스프링 백엔드 개발자 (3년 이상 경력)**  
-- **공공기관 및 금융 IT 경험 (본인인증, 신용조회, CMS)**  
 - **개발뿐 아니라 안정적인 운영(DevOps 마인드)을 중요하게 생각합니다**  
 
 ---
