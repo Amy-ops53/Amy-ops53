@@ -1,12 +1,6 @@
-# 👋 Hi, I'm Amy
+# Hi, I'm Amy
 
 ### Backend Developer · Java & Spring
-
-[![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)]()
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)]()
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]()
-[![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD-blue?logo=githubactions&logoColor=white)]()
 
 ---
 
